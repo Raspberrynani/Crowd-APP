@@ -1,4 +1,4 @@
-**Crowd-APP (UNMAINTAINED)**
+**Crowd-APP (UNMAINTAINED/ARCHIVED)**
 <br />A Crowd Control APP Developed During YME 2021 Hackathon
 
 **Usage Instructions**
