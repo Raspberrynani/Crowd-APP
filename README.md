@@ -1,13 +1,13 @@
 # Crowd-APP
 
-#Usage Instructions
- Clone Repo
- Unpack Crowd-Tracker Android Source
- Pack Crowd-Tracker Android Source Into APK
- Install On Device
+**Usage Instructions**
+ <br />1. Clone Repo
+ <br />2. Unpack Crowd-Tracker Android Source
+ <br />3. Pack Crowd-Tracker Android Source Into APK
+ <br />4. Install On Device
  
-#TODO
- Link TO DB (Currently Using Local Storage)
+TODO
+<br />Link TO DB (Currently Using Local Storage)
 
 
 
