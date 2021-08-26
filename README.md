@@ -1,4 +1,5 @@
-# Crowd-APP
+**Crowd-APP (UNMAINTAINED)**
+<br />A Crowd Control APP Developed During YME 2021 Hackathon
 
 **Usage Instructions**
  <br />1. Clone Repo
